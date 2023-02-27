@@ -1,0 +1,22 @@
+{
+  "mysql": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "root123",
+    "database": "google-play",
+    "charset": "utf-8"
+  },
+  "task": {
+    "rank_url": "https://api.diandian.com/pc/app/v1/rank",
+    "app_url": "https://app.diandian.com/app",
+    "market_id": 11,
+    "genre_id": 39,
+    "country_id": [3, 101],
+    "language_id": 19,
+    "device_id": 0,
+    "rank_type": 2,
+    "brand_id": [1, 5],
+    "key": "WRcAFF0IBhAAT14XBxxcCQcTBEtQDhcCRQgHEwdLXhAAF1UREQcfHA0OFwJFFkEQGQoISFo%3D"
+  }
+}
